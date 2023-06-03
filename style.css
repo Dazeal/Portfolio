@@ -128,7 +128,7 @@ nav .menu-list{
 
   margin-left: 10px;
 
-  width: 100px;
+  width: 100%;
 
   border-top: 5px solid white;
 
@@ -354,7 +354,7 @@ nav .menu-list{
 
   display: flex;
 
-  jujustify-content: center;
+  justify-content: center;
 
   align-items: center;
 
