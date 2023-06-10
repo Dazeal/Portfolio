@@ -86,7 +86,7 @@ nav .menu-list{
   display: inline-block;
   margin-right: 10px;
   margin-left: 10px;
-  width: 100px;
+  width: 100%;
   border-top: 5px solid #2C3D4D;
 }
 .project i {
@@ -98,7 +98,7 @@ nav .menu-list{
   flex-wrap: wrap;
 }
 .card {
-  width: 400%;
+  width: 400px;
   /* margin-right: 5px; */
   margin-top: 48px;
   padding-bottom: 28px;
@@ -125,13 +125,13 @@ nav .menu-list{
 .card .card-tag .green-tag {
   background-color: #24CC96;
   padding: 4px;
-  border-radius: 10%;
+  border-radius: 10px;
   color: white;
 }
 .card .card-tag .yellow-tag {
   background-color: #eeee47;
   padding: 4px;
-  border-radius: 10%;
+  border-radius: 10px;
   color: black;
 }
 .card p {
