@@ -263,7 +263,142 @@ footer{
   padding: 36px 72px;  
 }
 
+/*Device = Most of the Smartphones Mobiles (Portrait) Screen = Between 320px to 479px */
+ 
+ @media (min-width: 320px) and (max-width: 48px){ 
 
+ header {
+ padding-left: 36px; 
+ padding-right: 36px;
+}
+ nav h2 {
+ font-size: 32px;
+ }
+ nav .menu-list { 
+   font-size: 16px; 
+   margin-right: 10px;
+ }
+ .hero-container .hero-img {
+   width: 150px;
+ } 
+ hero-Container h1,
+.project-container h1, 
+.about-container h1, 
+.contact h1, 
+.socials-container h1 {
+ font-size: 40px;
+}
+ .project {
+   padding: 60px 80px;
+ }
+ .card { 
+   width: 100%;
+ }
+ .card h3 { 
+   font-size: 24px;
+ }
+ .card .card-tag { 
+   margin-top: 24px; 
+   padding: 0 24px;
+ }
+ .card .card-tag .green-tag,
+ .card .card-tag .yellow-tag {
+   font-size: 12px;
+ }
+ .about{
+ padding: 80pX 100px 100px 100px;
+ }
+ .contact {
+   padding: 40px 100px;
+ }
+ .about-container p {
+   font-size: 18px;
+ }
+ .contact .icon-box {
+   flex-direction: column; 
+   padding: 20px;
+ } 
+ icon-box .box {
+   padding: 38px;
+ } 
+ .icon-box .box h2{ 
+   font-size: 20px;
+ } 
+ icon-box .box span { 
+   margin-bottom : 12px; 
+   padding: 20px 27px;
+ } 
+ .icon-box .box i{ 
+   font-size: 24px;
+ } 
+ icon-box .box small {
+   margin-bottom: 10px;
+ } 
+ .smargin{
+ padding: 100px 80px 100px 80px;
+} 
+ .Social-icons span{ 
+   margin-right: 2px;
+}
+} 
+
+/* Device = LOw Resolution Tab Lets, Mobiles (Lands cape) Screen = B/w 481px to 767px*/
+
+ @media (min-width: 481px) and (max- width: 767px) {
+ header {
+ padding-left: 36px; 
+ padding-right: 36px;
+}
+ nav h2 { 
+   font-size: 32px;
+ } 
+ nav .menu-list { 
+   font-size: 16px; 
+   margin-right: 10px;
+ } 
+ .hero-container h1,
+ .project-container h1, 
+ .about-container hi, 
+ .contact h1, 
+ .socials-container h1 {
+ font-size: 40px;
+}
+ .about {
+ padding: 80px 100px 80px 100px;
+} 
+ .Contact {
+   padding: 40px 80px;
+ } 
+ .contact .icon-box { 
+   padding: 20px;
+ } 
+ .icon-box .box h2{ 
+   font-size: 20px;
+ } 
+ .icon-box .box span {
+  margin-bottom: 12px; 
+  padding: 20px 27px;
+ } 
+ .icon-box .box i { 
+   font-size: 24px;
+ } 
+ .icon-box .box small { 
+   margin-bottom: 10px;
+}
+.card{
+width:100%;
+}
+}
+
+/*Device = Tablets, Ipads (Landscape) Screen = Between 768px to 1024px */
+ @media (min-width: 768px) and (max-width: 1024px) {
+ nav .menu-list {
+ margin-right: 12px;
+ }
+ .card {
+ width: 100%;
+ }
+}
 
 
 
