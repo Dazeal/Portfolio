@@ -256,7 +256,7 @@ nav .menu-list{
 }
 /* Footer */
 footer{
-  background-color: lemon;
+  background-color: lightgreen;
   color: #fff;
   text-align: center;
   width: 100%;
@@ -330,20 +330,9 @@ footer{
  } 
  .icon-box .box i{ 
    font-size: 24px;
- } 
- icon-box .box small {
-   margin-bottom: 10px;
- } 
- .smargin{
- padding: 100px 80px 100px 80px;
-} 
- .Social-icons span{ 
-   margin-right: 2px;
-}
-} 
 
-/* Device = LOw Resolution Tab Lets, Mobiles (Lands cape) Screen = B/w 481px to 767px*/
 
+/* Device
  @media (min-width: 481px) and (max- width: 767px) {
  header {
  padding-left: 36px; 
@@ -381,24 +370,7 @@ footer{
  } 
  .icon-box .box i { 
    font-size: 24px;
- } 
- .icon-box .box small { 
-   margin-bottom: 10px;
-}
-.card{
-width:100%;
-}
-}
 
-/*Device = Tablets, Ipads (Landscape) Screen = Between 768px to 1024px */
- @media (min-width: 768px) and (max-width: 1024px) {
- nav .menu-list {
- margin-right: 12px;
- }
- .card {
- width: 100%;
- }
-}
 
 
 
