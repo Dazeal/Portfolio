@@ -332,53 +332,6 @@ footer{
    font-size: 24px;
 
 
-/* Device
- @media (min-width: 481px) and (max- width: 767px) {
- header {
- padding-left: 36px; 
- padding-right: 36px;
-}
- nav h2 { 
-   font-size: 32px;
- } 
- nav .menu-list { 
-   font-size: 16px; 
-   margin-right: 10px;
- } 
- .hero-container h1,
- .project-container h1, 
- .about-container hi, 
- .contact h1, 
- .socials-container h1 {
- font-size: 40px;
-}
- .about {
- padding: 80px 100px 80px 100px;
-} 
- .Contact {
-   padding: 40px 80px;
- } 
- .contact .icon-box { 
-   padding: 20px;
- } 
- .icon-box .box h2{ 
-   font-size: 20px;
- } 
- .icon-box .box span {
-  margin-bottom: 12px; 
-  padding: 20px 27px;
- } 
- .icon-box .box i { 
-   font-size: 24px;
-
-
-
-
-
-
-
-
-
 
 
 
