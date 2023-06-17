@@ -444,7 +444,7 @@ nav .menu-list{
 
 .icon-box .box small {
 
-  display: block;
+  display: inline-block;
 
   margin-bottom: 14px;
 
@@ -492,7 +492,7 @@ nav .menu-list{
 
 .social-icons span {
 
-  didisplay: inline-block;
+  display: inline-block;
 
   margin-right: 24px;
 
@@ -666,7 +666,7 @@ footer{
 
 } 
 
- .Social-icons span { 
+ .social-icons span { 
 
    margin-right: 2px;
 
