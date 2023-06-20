@@ -599,109 +599,56 @@ margin-right: 2px;
 /* Device = Low Resolution Tablets, Mobiles (Landscape) Screen = B/w 481px to 767px */
 
 @media (min-width: 481px) and (max-width: 767px){
-
- header {
-
- padding-left: 36px; 
-
- padding-right: 36px;
-
+header {
+padding-left: 36px; 
+padding-right: 36px;
 }
-
- nav h2 { 
-
-   font-size: 32px;
-
- } 
-
- nav .menu-list { 
-
-   font-size: 16px; 
-
-   margin-right: 10px;
-
- } 
-
- .hero-container h1,
-
- .project-container h1, 
-
- .about-container hi, 
-
- .contact h1, 
-
- .socials-container h1 {
-
- font-size: 40px;
-
-}
-
- .about {
-
- padding: 80px 100px 80px 100px;
-
+nav h2 { 
+font-size: 32px;
 } 
-
- .contact {
-
-   padding: 40px 80px;
-
- } 
-
- .contact .icon-box { 
-
-   padding: 20px;
-
- } 
-
- .icon-box .box h2 { 
-
-   font-size: 20px;
-
- } 
-
- .icon-box .box span {
-
-  margin-bottom: 12px; 
-
-  padding: 20px 27px;
-
- } 
-
- .icon-box .box i { 
-
-   font-size: 24px;
-
- } 
-
- .icon-box .box small { 
-
-   margin-bottom: 10px;
-
+nav .menu-list { 
+font-size: 16px; 
+margin-right: 10px;
+} 
+.hero-container h1,
+.project-container h1, 
+.about-container hi, 
+.contact h1, 
+.socials-container h1 {
+font-size: 40px;
 }
-
+.about {
+padding: 80px 100px 80px 100px;
+} 
+.contact {
+padding: 40px 80px;
+} 
+.contact .icon-box { 
+padding: 20px;
+} 
+.icon-box .box h2 { 
+font-size: 20px;
+} 
+.icon-box .box span {
+margin-bottom: 12px; 
+padding: 20px 27px;
+} 
+.icon-box .box i { 
+font-size: 24px;
+} 
+.icon-box .box small { 
+margin-bottom: 10px;
+}
 .card {
-
 width:100%;
-
 }
-
 }
-
 /* Device = Tablets, Ipads (Landscape) Screen = Between 768px to 1024px */
-
- @media (min-width: 768px) and (max-width: 1024px){
-
- nav .menu-list {
-
- margin-right: 12px;
-
- }
-
- .card {
-
- width: 100%;
-
- }
-
+@media (min-width: 768px) and (max-width: 1024px){
+nav .menu-list {
+margin-right: 12px;
+}
+.card {
+width: 100%;
+}
 }
