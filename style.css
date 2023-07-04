@@ -139,9 +139,6 @@ nav .menu-list{
 
 /* Project Styling */
 
-html {
-scroll-behavior: smooth;
-}
 .project {
 
   padding: 60px 120px;
@@ -279,9 +276,7 @@ scroll-behavior: smooth;
 }
 
 /* about-styling */
-html {
-scroll-behavior: smooth;
-}
+
 .about{
 
   background-color: #24CC96;
@@ -356,9 +351,6 @@ scroll-behavior: smooth;
 
 /* contact-styling */
 
-html {
-scroll-behavior: smooth;
-}
 .contact {
 
   padding: 60px 120px;
