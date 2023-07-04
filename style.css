@@ -446,7 +446,7 @@ nav .menu-list{
 }
 
 .icon-box .box small {
-
+justify-content : center;
   display: inline-block;
 
   margin-bottom: 14px;
@@ -454,7 +454,7 @@ nav .menu-list{
 }
 
 .icon-box .box .email {
-
+justify-content : center;
   color: #24CC96;
 
 }
