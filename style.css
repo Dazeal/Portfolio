@@ -88,14 +88,16 @@ nav .menu-list{
 }
 
 .hero-container .hero-img{
-  width: 400px;
+  width: 600px;
 
-  border-radius: 45%;
+  border-radius: 50%;
 
 }
 
 .hero-container h1{
-padding: 60px 100px;
+
+  padding: 60px 100px;
+  
   color: brown;
 
   font-size: 60px;
