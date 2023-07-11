@@ -90,13 +90,13 @@ nav .menu-list{
 .hero-container .hero-img{
   width: 400px;
 
-  border-radius: 25%;
+  border-radius: 45%;
 
 }
 
 .hero-container h1{
 padding: 60px 100px;
-  color: #fff;
+  color: brown;
 
   font-size: 60px;
 
