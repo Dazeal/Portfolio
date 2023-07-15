@@ -19,11 +19,9 @@ body{
 }
 
 header{
-
 background-color: #2C3D4D;
 width: 100%;
 padding:36px 72px;
-
 }
 h5{
   margin: 
@@ -49,11 +47,9 @@ nav h2{
 }
 
 nav.menu {
-
-  list-style-type: none;
-
-  padding: 0;
-
+text-decoration: none;
+list-style-type: none;
+padding: 0;
 }
 
 nav .menu-list{
