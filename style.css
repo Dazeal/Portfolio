@@ -26,6 +26,7 @@ padding:36px 72px;
 
 }
 h5{
+  margin: 
   padding: 36px 36px;
   border-radius: 10px 10px 10px 10px;
 }
@@ -62,7 +63,7 @@ nav .menu-list{
   color:white;
 
   display: inline-block;
-  text-decoration: non;
+  text-decoration: none;
   margin-right: 24px;
 
 }
@@ -449,7 +450,7 @@ nav .menu-list{
 .icon-box .box small {
 justify-content : center;
 display: inline-block;
-text-decoration: non;
+text-decoration: none;
 margin-bottom: 14px;
 
 }
