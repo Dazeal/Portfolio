@@ -656,3 +656,10 @@ margin-right: 12px;
 width: 100%;
 }
 }
+form{
+  position: fixed;
+  background-color: #000;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
