@@ -9,7 +9,10 @@ scroll-behavior: smooth;
 
 }
 .top{
-  position: sticky;
+  position: fixed;
+  background-color: pink;
+  color: skyblue;
+  text-align: center;
 }
 body{
 
