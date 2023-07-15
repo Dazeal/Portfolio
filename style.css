@@ -8,7 +8,9 @@ scroll-behavior: smooth;
   margin: 0;
 
 }
-
+.top{
+  position: sticky;
+}
 body{
 
   font-family: sans-serif;
@@ -655,7 +657,4 @@ margin-right: 12px;
 .card {
 width: 100%;
 }
-}
-.top {
-  position: fixed;
 }
