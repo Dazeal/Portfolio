@@ -8,12 +8,6 @@ scroll-behavior: smooth;
   margin: 0;
 
 }
-.top{
-  position: fixed;
-  background-color: pink;
-  color: skyblue;
-  text-align: center;
-}
 body{
 
   font-family: sans-serif;
