@@ -520,6 +520,16 @@ footer{
   padding: 36px 72px;  
 
 }
+  #btn-top{
+    position: fixed;
+    bottom: 10px;
+    right: 0;
+    display: inline-block;
+    margin-right: 24px;
+    background-color: #24CC96;
+    Padding: 10px 12px;
+    Border-radius: 100%;
+    Color: #fff;
 
 /* Device = Most of the Smartphones Mobiles (Portrait) Screen = Between 320px to 479px */
 @media (min-width: 320px) and (max-width: 480px){ 
