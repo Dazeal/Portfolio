@@ -52,15 +52,11 @@ padding: 0;
 }
 
 nav .menu-list{
-
   font-size: 24px;
-
-  color:white;
-
+  color:#000;
   display: inline-block;
   text-decoration: none;
   margin-right: 24px;
-
 }
 
 /* Hero Styling */
