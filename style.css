@@ -81,9 +81,9 @@ nav .menu-list{
 
 .hero-container .hero-img{
   width: 400px;
-  Margin-top: 10px;
+  Margin-top: 30px;
   border-radius: 30%;
-
+  Position: fixed;
 }
 
 .hero-container h1{
