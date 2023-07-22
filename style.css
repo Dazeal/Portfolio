@@ -19,7 +19,7 @@ body{
 }
 
 header{
-background-color: white;
+background-color: #2C3D4D;
 width: 100%;
 padding:36px 72px;
 }
@@ -48,7 +48,6 @@ nav h2{
 
 nav.menu {
 text-decoration: none;
-list-style-type: none;
 padding: 0;
 }
 
