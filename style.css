@@ -60,6 +60,7 @@ nav .menu-list{
 }
   nav .menu-list a{
     text-decoration: none;
+    Color: transparent;
   }
 
 /* Hero Styling */
