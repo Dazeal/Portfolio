@@ -529,6 +529,24 @@ footer{
     Border-radius: 100%;
     Color: #fff;
    }
+#btn-top{
+cursor: pointer;
+font-size: 1.2rem;
+height: 2.5rem;
+border : none;
+border-radius: 10px;
+color: #fff;
+background-color: blue;
+outline : none;
+box-shadow: 0 0.3rem rgba(121,121,121,0.70);
+} 
+#btn-top:hover{
+filter : brightness(110%);
+}
+#btn-top:active{
+transform:translate(0, 0.3rem);
+box-shadow: 0 0.1rem rgba(255,255,255,0.70);
+}
 
 /* Device = Most of the Smartphones Mobiles (Portrait) Screen = Between 320px to 479px */
 @media (min-width: 320px) and (max-width: 480px){ 
