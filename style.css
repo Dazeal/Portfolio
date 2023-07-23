@@ -58,6 +58,9 @@ nav .menu-list{
   text-decoration: none;
   margin-right: 24px;
 }
+  nav .menu-list a{
+    text-decoration: none;
+  }
 
 /* Hero Styling */
 
