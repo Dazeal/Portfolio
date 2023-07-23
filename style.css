@@ -518,6 +518,7 @@ footer{
   padding: 36px 72px;  
 
 }
+  /*
   #btn-top {
     position: fixed;
     bottom: 10px;
@@ -529,6 +530,7 @@ footer{
     Border-radius: 100%;
     Color: #fff;
    }
+  */
 #btn-top{
 cursor: pointer;
 font-size: 1.2rem;
